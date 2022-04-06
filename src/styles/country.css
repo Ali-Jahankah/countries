@@ -1,0 +1,21 @@
+.country_section {
+  width: 90%;
+  margin: 1.5em auto;
+  padding: 0.5em;
+  box-shadow: 0 0 8px 1px black;
+  background: rgb(218, 95, 2);
+  border-radius: 10px;
+}
+.flag_div {
+  width: 100%;
+}
+.flag_div img {
+  max-width: 100%;
+}
+.country_name {
+  margin: 0.5em 0;
+  font-size: 1.5rem;
+}
+.country_titles {
+  font-size: 1.2rem;
+}

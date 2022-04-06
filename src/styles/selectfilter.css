@@ -1,0 +1,15 @@
+.filter_select {
+  font-size: 1rem;
+  padding: 0.5em;
+  margin-left: 1em;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.filter_select option {
+  padding: 0.5em;
+  font-size: 1rem;
+}
+.filter_select option:nth-child(1) {
+  color: wheat;
+  background: rgb(7, 7, 7);
+}

@@ -1,0 +1,13 @@
+.searchbar {
+  padding: 0.5em;
+  color: black;
+  display: block;
+  cursor: pointer;
+  margin: 2em auto;
+  border-radius: 10px;
+  box-shadow: 0 0 8px 2px black;
+  background: rgb(218, 95, 2);
+}
+.searchbar::placeholder {
+  color: rgb(63, 60, 60);
+}
