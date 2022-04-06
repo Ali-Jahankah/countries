@@ -3,7 +3,7 @@ import Country from "./Country";
 
 const Countries = ({ countries }) => {
   return (
-    <article>
+    <article className="countries">
       {countries.map((item, index) => {
         return <Country key={index} country={item}></Country>;
       })}
